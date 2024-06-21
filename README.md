@@ -1,4 +1,4 @@
 # nehabura-practice
 This is my first Git Repository
 <br>
-Author - Neha Bura
+Author - Neha Bura (my name)
